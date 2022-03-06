@@ -1,0 +1,4 @@
+displayName = Replacement Zeniths
+author = Blockyheadman
+version = 1.0
+homepage = https://blockyheadman.wixsite.com/blocky-mods
